@@ -6,10 +6,9 @@ This project was created to fufill an assignment for my Game Labs I course at Qu
 
 # Team Credits
 - This game was developed by Omar Rosario and John Blanche.
-- [Project Management (Trello)](https://trello.com/b/3DrS995K/gdd210-lab-1-project-management)
+- [Project Management (Trello)](https://trello.com/b/aOXBOnuI)
 
 # How to Play
 - *Bolerite* is meant to be played on a Windows operating system and at a 1920x1080 resolution. Otherwise, the UI formatting will be affected.
 - Please visit my [itch.io webpage](https://omarlie.itch.io/bolerite) to download and run the executable to play.
-- If you're curious on how this was developed, download and unzip the project using your preferred file archiver and navigate to Assets/Scripts. Open with any text editor.
 - This version is not indicatve of the final product and changes will be made in the future.
